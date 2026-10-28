@@ -1,1 +1,14 @@
-
+body {
+    background-color:rgb(219, 247, 255);
+    color:rgb(82, 161, 187);
+    font-family:copperplate,papyrus,fantasy;
+}
+h1{
+    color:rgb(37, 127, 157);
+    font-size:xxx-large;
+    text-align: center;
+}
+h2{
+    color: rgb(44, 148, 182);
+    font-size: x-large;
+}
